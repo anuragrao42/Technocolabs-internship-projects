@@ -14,4 +14,4 @@ var newton = (33 / 100) * celsius;
 newton = Math.floor(newton);
 console.log("The temperature is " + newton + " degrees Newton.");
 
-// 0 deg. Kelvin can be represented as -460 deg. Fahrenheit
+// 0 deg. Kelvin can be represented as -460 deg. Fahrenheit!!

@@ -5,7 +5,7 @@ userName ? console.log(`Hello, ${userName} !`) : console.log("Hello!");
 //user asks a question
 var userQuestion = prompt("Ask your question!");
 console.log(userQuestion);
-//generates a random between 0 to 7 , to decide for eightBall to give random answers
+//generates a random between 0 to 7 , to decide for eightBall to give random answers!!
 var randomNumber = Math.floor(Math.random() * 8);
 
 var eightBall = "";
