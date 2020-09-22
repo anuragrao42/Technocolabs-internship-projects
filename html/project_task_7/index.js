@@ -1,4 +1,4 @@
-//assign your age
+//const is used to  assign  age
 const myAge = 20;
 //The first two years of a dog’s life count as 10.5 dog years each, which are represented as earlyYears
 var earlyYears = 2;

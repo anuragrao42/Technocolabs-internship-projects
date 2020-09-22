@@ -1,5 +1,5 @@
 //giving a choice to user to enter his name
-var userName = prompt("Enter your name ( NOT important )");
+var userName = prompt("Enter your name ( NOT Important )");
 //ternary operator on condition that userName is provided or not
 userName ? console.log(`Hello, ${userName} !`) : console.log("Hello!");
 //user asks a question
