@@ -1,6 +1,8 @@
 // Foursquare API Info
-const clientId = "OBHPGDBJ5SHP0K1U2E513MTE5VH513M4JA3JROJHMRQZ4GWZ";
-const clientSecret = "3JEIEALZR52VD2Y3TW32N4QKWVWREJEKN1H4CVUCI2BXWQFS";
+var clientId = "OBHPGDBJ5SHP0K1U2********ROJHMRQZ4GWZ";
+var clientSecret = "3JEIE******3TW32N4QKWVWREJE*****CVUCI2BXWQFS";
+
+var openWeatherKey = "47ac093912a5********53841bd";
 
 const url = "https://api.foursquare.com/v2/venues/explore?near=";
 
@@ -10,7 +12,6 @@ const url = "https://api.foursquare.com/v2/venues/explore?near=";
 // b388a6a2a3f33924682b8ccfc742f862
 // http://api.openweathermap.org/data/2.5/weather?q=nirmal&appid=b388a6a2a3f33924682b8ccfc742f862
 const weatherUrl = "http://api.openweathermap.org/data/2.5/weather";
-const openWeatherKey = "47ac093912a5c523f13cd507953841bd";
 
 // const urltofetch=`{url}{city}&limit=10&client_id={clientId}&client_secret=${clientSecret}&v=20190609`;
 //version standts for date

@@ -1,0 +1,19 @@
+{
+  "name": "technocolabs-internship-projects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuragrao42/Technocolabs-internship-projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuragrao42/Technocolabs-internship-projects/issues"
+  },
+  "homepage": "https://github.com/anuragrao42/Technocolabs-internship-projects#readme"
+}
